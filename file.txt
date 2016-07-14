@@ -1,0 +1,10 @@
+Desktop
+Documents
+Downloads
+Music
+Pictures
+Public
+Templates
+Videos
+file.txt
+sublime
